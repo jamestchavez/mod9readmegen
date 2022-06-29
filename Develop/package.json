@@ -1,7 +1,7 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Easy to use Generator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^6.3.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamestchavez/mod9readmegen"
+  },
+  "bugs": {
+    "url": "https://github.com/jamestchavez/mod9readmegen/issues"
+  },
+  "homepage": "https://github.com/jamestchavez/mod9readmegen/blob/main/README.md"
 }
